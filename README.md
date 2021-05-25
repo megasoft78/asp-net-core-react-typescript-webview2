@@ -7,6 +7,11 @@ Clone the repository
 git clone https://github.com/megasoft78/asp-net-core-react-typescript-webview2.git
 ```
 
+Build
+```
+dotnet build
+```
+
 Run
 ```
 dotnet run 
